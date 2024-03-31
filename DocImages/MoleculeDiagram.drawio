@@ -1,0 +1,359 @@
+<mxfile host="Electron" modified="2024-03-31T04:49:12.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="QJWnoiyXlEJaKXHaNFm9" version="21.2.8" type="device">
+  <diagram name="brainstorming" id="DPRoERqRR_pG9GchBE5e">
+    <mxGraphModel dx="7736" dy="4180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bWfCDgar9gF63O39ZOi7-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="110" width="300" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yx6jJu0DkROf84uWze2I-28" target="yx6jJu0DkROf84uWze2I-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yx6jJu0DkROf84uWze2I-3" target="yx6jJu0DkROf84uWze2I-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-3" value="Key" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="1362" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-5" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="yx6jJu0DkROf84uWze2I-39" target="yx6jJu0DkROf84uWze2I-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="1392" as="sourcePoint" />
+            <mxPoint x="760" y="1445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="yx6jJu0DkROf84uWze2I-2" target="yx6jJu0DkROf84uWze2I-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-2" value="Breakable Wall" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="540" y="1362" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-6" value="Staff" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="1212" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-11" value="" style="endArrow=none;html=1;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="yx6jJu0DkROf84uWze2I-23" target="yx6jJu0DkROf84uWze2I-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="1202" as="sourcePoint" />
+            <mxPoint x="360" y="1362" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yx6jJu0DkROf84uWze2I-10" target="yx6jJu0DkROf84uWze2I-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="1352" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-10" value="Breakable Wall" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="320" y="1212" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="yx6jJu0DkROf84uWze2I-14" target="yx6jJu0DkROf84uWze2I-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-14" value="Enemy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="1362" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-16" value="Player breaks the wall with the staff and is surprised by an enemy, but now they are primed with hitting the wall with the staff, they should also hit the enemy" style="rounded=0;whiteSpace=wrap;dashed=1;strokeColor=default;dashPattern=1 4;perimeterSpacing=0;" parent="1" vertex="1">
+          <mxGeometry x="550" y="1182" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-18" value="Player must break at least two walls before returning to the start, reinforcing the knowledge for that ability" style="rounded=0;whiteSpace=wrap;dashed=1;strokeColor=default;dashPattern=1 4;perimeterSpacing=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="1052" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-22" value="" style="endArrow=none;html=1;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="yx6jJu0DkROf84uWze2I-6" target="yx6jJu0DkROf84uWze2I-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="1242" as="sourcePoint" />
+            <mxPoint x="210" y="1242" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-21" value="Breakable Wall" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1212" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-24" value="" style="endArrow=none;html=1;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="yx6jJu0DkROf84uWze2I-21" target="yx6jJu0DkROf84uWze2I-23" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="1242" as="sourcePoint" />
+            <mxPoint x="320" y="1242" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-23" value="Something here?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="1212" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-26" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 4;" parent="1" source="yx6jJu0DkROf84uWze2I-18" target="yx6jJu0DkROf84uWze2I-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="1202" as="sourcePoint" />
+            <mxPoint x="50" y="1152" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-27" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 4;" parent="1" source="yx6jJu0DkROf84uWze2I-18" target="yx6jJu0DkROf84uWze2I-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="172" y="1132" as="sourcePoint" />
+            <mxPoint x="95" y="1222" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yx6jJu0DkROf84uWze2I-39" target="yx6jJu0DkROf84uWze2I-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="1392" as="sourcePoint" />
+            <mxPoint x="-80" y="1272" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-28" value="Acid/Enemies?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="1362" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-30" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 4;" parent="1" source="yx6jJu0DkROf84uWze2I-16" target="yx6jJu0DkROf84uWze2I-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570.45" y="1222" as="sourcePoint" />
+            <mxPoint x="642.45" y="1292" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-31" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 4;" parent="1" source="yx6jJu0DkROf84uWze2I-16" target="yx6jJu0DkROf84uWze2I-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770.8" y="1232" as="sourcePoint" />
+            <mxPoint x="678.8" y="1362" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-32" value="Player should see enemies before this encounter, so they know they are enemies?" style="rounded=0;whiteSpace=wrap;dashed=1;strokeColor=#82b366;dashPattern=1 4;perimeterSpacing=0;fillColor=#d5e8d4;" parent="1" vertex="1">
+          <mxGeometry x="615" y="1492" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-33" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 4;" parent="1" source="yx6jJu0DkROf84uWze2I-32" target="yx6jJu0DkROf84uWze2I-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="629.73" y="1462" as="sourcePoint" />
+            <mxPoint x="654.73" y="1552" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-39" value="Start" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="300" y="1362" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="1522" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yx6jJu0DkROf84uWze2I-61" target="yx6jJu0DkROf84uWze2I-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="yx6jJu0DkROf84uWze2I-61" target="yx6jJu0DkROf84uWze2I-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-61" value="Start" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="180" y="1782" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yx6jJu0DkROf84uWze2I-62" target="yx6jJu0DkROf84uWze2I-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-62" value="Item" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="1642" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-63" value="Requires item/skill to pass, player should also have knowledge about item/skill" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1782" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-67" value="Ideas:&#xa;- (if possible) player must crush enemies with a pushable box before getting a weapon" style="rounded=0;whiteSpace=wrap;dashed=1;strokeColor=#82b366;dashPattern=1 4;perimeterSpacing=0;fillColor=#d5e8d4;align=center;" parent="1" vertex="1">
+          <mxGeometry x="730" y="1722" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-1" value="Staff" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="1302" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-2" value="Breakable Wall" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="1432" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="bWfCDgar9gF63O39ZOi7-4" target="bWfCDgar9gF63O39ZOi7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-4" value="Start" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="1432" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-5" value="" style="group;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1380" y="1472" width="120" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-6" value="Acid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bWfCDgar9gF63O39ZOi7-5">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-7" value="Checkpoints" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bWfCDgar9gF63O39ZOi7-5">
+          <mxGeometry y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-8" value="Chompers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bWfCDgar9gF63O39ZOi7-5">
+          <mxGeometry y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-9" value="Health Pickup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bWfCDgar9gF63O39ZOi7-5">
+          <mxGeometry y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-10" value="Keys" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bWfCDgar9gF63O39ZOi7-5">
+          <mxGeometry y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-11" value="Moving Platforms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bWfCDgar9gF63O39ZOi7-5">
+          <mxGeometry y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-12" value="Passthrough Platforms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bWfCDgar9gF63O39ZOi7-5">
+          <mxGeometry y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-13" value="Spikes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bWfCDgar9gF63O39ZOi7-5">
+          <mxGeometry y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-14" value="Spitters" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bWfCDgar9gF63O39ZOi7-5">
+          <mxGeometry y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-15" value="Gun" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bWfCDgar9gF63O39ZOi7-5">
+          <mxGeometry y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-16" value="Staff" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bWfCDgar9gF63O39ZOi7-5">
+          <mxGeometry y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-17" value="Key 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="1432" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="bWfCDgar9gF63O39ZOi7-2" target="bWfCDgar9gF63O39ZOi7-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2130" y="1582" as="sourcePoint" />
+            <mxPoint x="2180" y="1532" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-19" value="Breakable Wall" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="1302" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="bWfCDgar9gF63O39ZOi7-4" target="bWfCDgar9gF63O39ZOi7-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1940" y="1402" as="sourcePoint" />
+            <mxPoint x="1990" y="1352" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="bWfCDgar9gF63O39ZOi7-19" target="bWfCDgar9gF63O39ZOi7-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2090" y="1252" as="sourcePoint" />
+            <mxPoint x="2140" y="1202" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-22" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" source="bWfCDgar9gF63O39ZOi7-4" target="bWfCDgar9gF63O39ZOi7-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2050" y="1632" as="sourcePoint" />
+            <mxPoint x="2100" y="1582" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1940" y="1542" />
+              <mxPoint x="2300" y="1542" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-23" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" source="bWfCDgar9gF63O39ZOi7-4" target="bWfCDgar9gF63O39ZOi7-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1990" y="1402" as="sourcePoint" />
+            <mxPoint x="2040" y="1352" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1940" y="1262" />
+              <mxPoint x="2300" y="1262" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-24" value="" style="group;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1420" y="1072" width="200" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="bWfCDgar9gF63O39ZOi7-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="40" as="sourcePoint" />
+            <mxPoint x="80" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-26" value="Sight connection, player can see from one area to the other" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bWfCDgar9gF63O39ZOi7-24">
+          <mxGeometry x="80" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-27" value="Traversable connection, player can travel from one area to the other" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bWfCDgar9gF63O39ZOi7-24">
+          <mxGeometry x="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-28" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="bWfCDgar9gF63O39ZOi7-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="120" as="sourcePoint" />
+            <mxPoint x="80" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="bWfCDgar9gF63O39ZOi7-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="200" as="sourcePoint" />
+            <mxPoint x="80" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-30" value="One-Way traversable connection, player can only travel in one direction between the areas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bWfCDgar9gF63O39ZOi7-24">
+          <mxGeometry x="80" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-31" value="Player should see something that intrigues them and makes them want to find out what it is, ideally at the very start of the level" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="670" width="140" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-32" value="Drama" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="782" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-33" value="Discovery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="702" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-34" value="Challenge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="864" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-35" value="Exploration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="942" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-36" value="&lt;p&gt;The&#xa;level must consist of a series of well-planned encounters which together&#xa;deliver on the following design goals:&lt;/p&gt;&#xa;&#xa;&lt;p&gt;&lt;b&gt;Discovery&lt;/b&gt;: The level should facilitate the player’s&#xa;discovery of &lt;b&gt;mechanics&lt;/b&gt; and &lt;b&gt;dynamics&lt;/b&gt; without written instruction. Mechanics&#xa;should be introduced safely and individually in section 1, before the player must&#xa;use them under pressure and in combination (to learn new dynamics) in later&#xa;sections. You can assume the player already knows the controls.&lt;/p&gt;&#xa;&#xa;&lt;p&gt;&lt;b&gt;Drama&lt;/b&gt;:&amp;nbsp;The level should feature appropriate &lt;b&gt;dramatic pacin&lt;/b&gt;g. Each section should be&#xa;divided into encounters that require the player to use their skills to complete&#xa;a task. The player should have a clear idea of their goals, even if the&#xa;solution is challenging to solve.&lt;/p&gt;&#xa;&#xa;&lt;p&gt;&lt;b&gt;Challenge&lt;/b&gt;: The level should challenge the player’s reflexes&#xa;and problem-solving skills. Challenges should be presented via a dramatic arc&#xa;of modulated difficulty, with moments of tension and relief, and moments of&#xa;power. The first section of the level should be fairly easy. The later sections&#xa;should be more demanding, but still achievable by a moderately skilled platform&#xa;player.&lt;/p&gt;&#xa;&#xa;&lt;p&gt;&lt;b&gt;Exploration&lt;/b&gt;: The level should be non-linear, inviting and&#xa;facilitating the player to explore in different directions without them getting&#xa;lost or becoming uncertain as to what to do next. Your aesthetic and layout&#xa;choices should aid in this goal, creating a distinct and memorable feeling of&#xa;space/place. The player should never have to repeat large areas of the level&#xa;that don’t present new challenges.&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1100" y="-780" width="460" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-39" value="Narrative Plan" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="-180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-47" value="Acid" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;" parent="1" vertex="1">
+          <mxGeometry x="-1080" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-48" value="Checkpoints" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;" parent="1" vertex="1">
+          <mxGeometry x="-760" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-49" value="Chompers" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;" parent="1" vertex="1">
+          <mxGeometry x="-1080" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-50" value="Health Pickup" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;" parent="1" vertex="1">
+          <mxGeometry x="-920" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-51" value="Keys" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;" parent="1" vertex="1">
+          <mxGeometry x="-760" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-52" value="Moving Platforms" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;" parent="1" vertex="1">
+          <mxGeometry x="-920" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-53" value="Passthrough Platforms" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;" parent="1" vertex="1">
+          <mxGeometry x="-920" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-54" value="Spikes" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;" parent="1" vertex="1">
+          <mxGeometry x="-1080" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-55" value="Spitters" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;" parent="1" vertex="1">
+          <mxGeometry x="-1080" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-56" value="Gun" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;" parent="1" vertex="1">
+          <mxGeometry x="-920" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx6jJu0DkROf84uWze2I-57" value="Staff" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;" parent="1" vertex="1">
+          <mxGeometry x="-920" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-51" value="Weapons" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-52" value="Hazard" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-53" value="Platforming" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-54" value="Misc" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-56" value="Required" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="-80" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-57" value="Optional" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1860" y="-80" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-58" value="Destructable Pillar" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-59" value="Pressure Plate" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="-1510" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-60" value="Trigger Door" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="-1810" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-61" value="Switch" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="-1650" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWfCDgar9gF63O39ZOi7-62" value="Pushable Block" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="-1820" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
