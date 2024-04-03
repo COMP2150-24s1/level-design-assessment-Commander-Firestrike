@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-04-03T03:20:30.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="rK92eqsXmSGGqCKnenug" version="21.2.8" type="device" pages="4">
+<mxfile host="Electron" modified="2024-04-03T03:33:39.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="z9WUeR5UzlnM9u6jK2YY" version="21.2.8" type="device" pages="4">
   <diagram name="brainstorming" id="DPRoERqRR_pG9GchBE5e">
     <mxGraphModel dx="3434" dy="1645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -431,7 +431,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EBMWZZeK-TQWIozfOn9t" name="storyboard">
-    <mxGraphModel dx="1287" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="795" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -524,7 +524,7 @@
         <mxCell id="DpFcoKeNW6TO1hAH7gxI-34" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;jumpStyle=arc;jumpSize=6;" edge="1" parent="1" source="DpFcoKeNW6TO1hAH7gxI-2" target="DpFcoKeNW6TO1hAH7gxI-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DpFcoKeNW6TO1hAH7gxI-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="DpFcoKeNW6TO1hAH7gxI-2" value="Hub 1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="2120" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DpFcoKeNW6TO1hAH7gxI-3" value="Molecule" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -674,6 +674,18 @@
         </mxCell>
         <mxCell id="DpFcoKeNW6TO1hAH7gxI-55" value="(something cool here)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="2760" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tl9i4G0agx-iZXZ06vkE-3" style="edgeStyle=none;shape=connector;rounded=0;jumpStyle=arc;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;" edge="1" parent="1" source="Tl9i4G0agx-iZXZ06vkE-1" target="Tl9i4G0agx-iZXZ06vkE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tl9i4G0agx-iZXZ06vkE-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tl9i4G0agx-iZXZ06vkE-4" style="edgeStyle=none;shape=connector;rounded=0;jumpStyle=arc;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;" edge="1" parent="1" source="Tl9i4G0agx-iZXZ06vkE-2" target="DpFcoKeNW6TO1hAH7gxI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tl9i4G0agx-iZXZ06vkE-2" value="basic platforming introduction" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
