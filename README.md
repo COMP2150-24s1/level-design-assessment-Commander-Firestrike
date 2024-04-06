@@ -84,7 +84,7 @@ You should conclude by highlighting a specific example of an encounter, or anoth
 - I still iterated on my design, but found it difficult to apply the diagramming techniques to this process
 - My design process was as follows:
     1. Experiment with the prefabs to get an understanding of how they work
-    2. Mock up some simple encounters to get an idea of what I want the level to be and what mechanics I wanted to focus on
+    2. Mock up some simple encounters to get an idea of what I want the level to be and what mechanics I want to focus on
     3. Create a storyboard for the dramatic pacing of the level
     4. Create a molecule diagram for how each of the 3 sections are going to connect and some of their internal details, based on the storyboard
     5. Create the first section in Unity to introduce the mechanics
