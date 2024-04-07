@@ -40,27 +40,39 @@
 
 You should restructure the headings below to match the order they appear in your level. -->
 
-### 2.1. Acid
+### 2.1. Spikes
+![Spikes Introduction](DocImages/SpikesIntro.png)
+Spikes are introduced first, as they don't move and are therefore a small step up from regular platforming.
 
-### 2.2. Checkpoints
+### 2.2. Passthrough Platforms & Health Pickups
+![Passthrough Platform & Health Pickups Introduction](DocImages/PlatformAndHealthIntro.png)
+As the spikes are unavoidable, the player will always collect the health pickup and learn what it does. This avoids the potential problem of a player not having taken damage before reaching a health pickup.
 
-### 2.3. Chompers
+Passthrough Platforms and Health Pickups are introduced next, as the passthrough platform is a simple addition to basic platforming, and the health pickup is an important item.
 
-### 2.4. Health Pickups
 
-### 2.5. Keys
+### 2.3. Acid & Checkpoints
+Acid provides another step up from basic platforming, so it was introduced next. Due to how the acid immediately kills the player, checkpoints were also introducted here so the player would learn how they work and not have to play the earlier stages of the level if they touch the acid.
 
-### 2.6. Moving Platforms
+### 2.4. Moving Platforms
+Moving platforms provide some variety to basic platforming, so they are introduced here.
 
-### 2.7. Passthrough Platforms
+### 2.5. Weapon Pickup (Staff), Spitters, & Destructable Columns
+The Staff, Spitters, and Destructable Columns were all introduced in a small encounter in order to teach the player how they all work with a simple demonstration. The Spitter and Column are placed very close to one another so that when the player swipes at the Spitter with the Staff, the Spitter is killed, but the Column is also destroyed.
 
-### 2.8. Spikes
+### 2.6. Weapon Pickup (Gun) & Chompers
+The Gun and Chompers are introduced together to show the player the second part of the combat mechanics.
 
-### 2.9. Spitters
+### 2.7. Single Use Switch & Trigger Door
+The Switch and Trigger Door are introduced together to demonstrate how they cannot function independently, a switch will always be connected to a door. Different coloured tiles help to visually "connect" the two together so the player always knows where a switch for a door is or vice versa. The Switch is embedded in the ground so the player cannot try to activate it with their body, and must instead shoot it with the gun, opening the door.
 
-### 2.10. Weapon Pickup (Gun)
+### 2.8. Keys
+Keys are the final mechanic introduced, due to being a reward for the player for completing the first section, and a mental separator to separate the first section from the second section. The player must shoot the Switch with the gun and break the Column with the Staff to reinforce understanding of those mechanics.
 
-### 2.11. Weapon Pickup (Staff)
+
+
+
+
 
 ## 3. Spatiotemporal Design
 <!-- A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
