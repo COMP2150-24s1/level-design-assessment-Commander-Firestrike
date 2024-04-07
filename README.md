@@ -22,7 +22,7 @@ The main challenges in my design are the nuanced control of the character and th
 
 ### 1.4. Exploration
 <!-- How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places? -->
-My level design facilitates autonomy and invites the player to explore but not being entirely linear, as well as providing rewards to players who explore. Section 1 has a hub area which connects to two other smaller areas, which introduce a few mechanics each, and the player can choose either section to play through first. Section 2 and 3 are also connected by a hub area, and allow the player to choose which one to play first. Various encounters also have a second, more difficult path to take, which rewards the player with a health container. My aesthetic and layout choices create distinct and memorable spaces and places by using unique design language. Section 2 and 3 have their own theme, style, and main mechanics. The hub areas offer a place to rest and are revisited, making them more memorable.
+My level design facilitates autonomy and invites the player to explore but not being entirely linear, as well as providing rewards to players who explore. Section 1 has a hub area which connects to two other smaller areas, which introduce a few mechanics each, and the player can choose either section to play through first. Section 2 and 3 are also connected by a hub area, and allow the player to choose which one to play first. Various encounters also have a second, more difficult path to take, which rewards the player with a health pickup. My aesthetic and layout choices create distinct and memorable spaces and places by using unique design language. Section 2 and 3 have their own theme, style, and main mechanics. The hub areas offer a place to rest and are revisited, making them more memorable.
 
 ## 2. Core Gameplay (~400 words)
 <!-- A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures. -->
@@ -105,7 +105,7 @@ No additional words are necessary for this section (any words should only be wit
 ### 3.1. Molecule Diagram
 ![Molecule Diagram](DocImages/MoleculeDiagram.png)
 
-<!-- didn't make diagrams oops :(
+<!-- didn't make maps that aren't screenshots oops :(
 ### 3.2. Level Map – Section 1
 
 ### 3.3. Level Map – Section 2
@@ -116,20 +116,24 @@ No additional words are necessary for this section (any words should only be wit
 <!-- Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design. -->
-I struggled with following the intended design process that goes from storyboarding through diagrams and then to greyboxing, as 
-- I struggled with following the design process from storyboarding through diagrams to greyboxing, as I am not a very creative person
-- I found it much easier to go straight into Unity and experiment with the prefabs 
-- I still iterated on my design, but found it difficult to apply the diagramming techniques to this process
-- My design process was as follows:
-    1. Experiment with the prefabs to get an understanding of how they work
-    2. Mock up some simple encounters to get an idea of what I want the level to be and what mechanics I want to focus on
-    3. Create a storyboard for the dramatic pacing of the level
-    4. Create a molecule diagram for how each of the 3 sections are going to connect and some of their internal details, based on the storyboard
-    5. Create the first section in Unity to introduce the mechanics
-    6. Create a lot of individual, separated encounters in Unity based on certain mechanics and prefabs for the second and third sections
-    7. Connect each encounter together in Unity in a way that follows dramatic pacing, while constantly testing and modifying the encounters to better target the desired player experience
-- Despite not using diagramming tools very much, I still believe I iterated effectively by testing every change to ensure the desired player experience was met
-- The final platforming section after getting the third key, and the layout of the two last sections could be improved with more iteration
+I struggled with following the intended design process that goes from storyboarding through diagrams and then to greyboxing, as I feel that I am not good at coming up with ideas without actively interacting with the prefabs tools in Unity. I found it much easier to go straight into Unity and experiment with the prefabs to get ideas which I fleshed out further in some diagrams. I still iterated on the design plenty, and some diagrams were helpful in organising my ideas, but overall I am unhappy with how little I managed to use those tools. Despite this, I still believe I iterated effectively.
+
+All of the assets were provided to us already, so I found that editing with the tilemap in Unity faster and more efficient than greyboxing in an external tool. The Unity tilemap editor provided all the tools required to effectively iterate and modify designs.
+
+My design process was as follows:
+1. Experiment with the prefabs to learn how they work and understand the different interactions that are possible between them
+2. Mock up some encounters to get an idea of what I want the level to be and what mechanics I want to focus on
+3. Create a flowchart for the dramatic pacing and intensity curve of the level (below is my original plan, which changed a little throughout development)
+![My original flowchart for the dramatic pacing of the level](DocImages/EarlyStoryboard.png)
+4. Create a molecule diagram diagram for the initial introductory encounters
+5. Create a more high-level molecule diagram for groups of encounters, and how each section connects (below is an image from earlier in development)
+![An early molecule diagram](DocImages/EarlyMoleculeDiagram.png)
+6. Create the first section in Unity to introduce all the mechanics I wanted to use
+7. Create a lot of individual, separated encounters in Unity based on certain mechanics and prefabs for the second and third sections
+8. Connect each encounter together in Unity in a way that follows dramatic pacing
+I iterated on the encounter designs by constantly testing every change made in Unity, ensuring that players for example, could make jumps or that they had enough space for more difficult platforming maneuvers. Each change was tested to ensure it provided the desired player experience also. It is for this reason that I believe I still iterated effectively, albeit without using the diagramming tools.
+
+The section after getting the third key (pictured below, circled in red) could definitely be improved with more iteration. Not wanting to introduce any more mechanics, I had difficulty continuing the dramatic pacing in a satisfying manner. This problem could possibly have been solved by shifting around other sections of the level to shorten the space required, but Unity becomes really slow when lots of prefabs are in the scene. Further iteration would help improve this section.
 
 ## Generative AI Use Acknowledgement
 
