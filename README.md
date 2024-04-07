@@ -133,7 +133,9 @@ My design process was as follows:
 8. Connect each encounter together in Unity in a way that follows dramatic pacing
 I iterated on the encounter designs by constantly testing every change made in Unity, ensuring that players for example, could make jumps or that they had enough space for more difficult platforming maneuvers. Each change was tested to ensure it provided the desired player experience also. It is for this reason that I believe I still iterated effectively, albeit without using the diagramming tools.
 
-The section after getting the third key (pictured below, circled in red) could definitely be improved with more iteration. Not wanting to introduce any more mechanics, I had difficulty continuing the dramatic pacing in a satisfying manner. This problem could possibly have been solved by shifting around other sections of the level to shorten the space required, but Unity becomes really slow when lots of prefabs are in the scene. Further iteration would help improve this section.
+The section after getting the third key (pictured below, circled in red) could definitely be improved with more iteration. Not wanting to introduce any more mechanics, I had difficulty continuing the dramatic pacing in a satisfying manner.
+![Area to improve](DocImages/AreaToImprove.jpg)
+This problem could possibly have been solved by shifting around other sections of the level to shorten the space required, but Unity becomes really slow when lots of prefabs are in the scene. Further iteration would help improve this section.
 
 ## Generative AI Use Acknowledgement
 
