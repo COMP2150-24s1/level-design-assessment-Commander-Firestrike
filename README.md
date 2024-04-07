@@ -3,6 +3,7 @@
 ### Student number: 47582383
 
 <!-- Here goes nothing, let's hope there aren't any spelling mistakes -->
+<!-- Oh the commit message has to be "Final Submission" not "Final Commit"-->
 
 ## 1. Player Experience (~700 words)
 <!-- Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience. -->
