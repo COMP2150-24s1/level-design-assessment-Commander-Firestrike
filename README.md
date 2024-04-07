@@ -41,11 +41,19 @@
 You should restructure the headings below to match the order they appear in your level. -->
 
 ### 2.1. Spikes
-![Spikes Introduction](DocImages/SpikesIntro.png)
+![Spikes 0](DocImages/Intros/Spikes/0.png)
+![Spikes 1](DocImages/Intros/Spikes/1.png)
+![Spikes 2](DocImages/Intros/Spikes/2.png)
+![Spikes 3](DocImages/Intros/Spikes/3.png)
 Spikes are introduced first, as they don't move and are therefore a small step up from regular platforming.
 
 ### 2.2. Passthrough Platforms & Health Pickups
-![Passthrough Platform & Health Pickups Introduction](DocImages/PlatformAndHealthIntro.png)
+![Passthrough Platforms & Health Pickups 0](DocImages/Intros/Passthrough/0.png)
+![Passthrough Platforms & Health Pickups 1](DocImages/Intros/Passthrough/1.png)
+![Passthrough Platforms & Health Pickups 2](DocImages/Intros/Passthrough/2.png)
+![Passthrough Platforms & Health Pickups 3](DocImages/Intros/Passthrough/3.png)
+![Passthrough Platforms & Health Pickups 4](DocImages/Intros/Passthrough/4.png)
+![Passthrough Platforms & Health Pickups 5](DocImages/Intros/Passthrough/5.png)
 As the spikes are unavoidable, the player will always collect the health pickup and learn what it does. This avoids the potential problem of a player not having taken damage before reaching a health pickup.
 
 Passthrough Platforms and Health Pickups are introduced next, as the passthrough platform is a simple addition to basic platforming, and the health pickup is an important item.
@@ -55,6 +63,12 @@ Passthrough Platforms and Health Pickups are introduced next, as the passthrough
 Acid provides another step up from basic platforming, so it was introduced next. Due to how the acid immediately kills the player, checkpoints were also introducted here so the player would learn how they work and not have to play the earlier stages of the level if they touch the acid.
 
 ### 2.4. Moving Platforms
+![Moving Platforms 0](DocImages/Intros/MovingPlatform/0.png)
+![Moving Platforms 1](DocImages/Intros/MovingPlatform/1.png)
+![Moving Platforms 2](DocImages/Intros/MovingPlatform/2.png)
+![Moving Platforms 3](DocImages/Intros/MovingPlatform/3.png)
+![Moving Platforms 4](DocImages/Intros/MovingPlatform/4.png)
+
 Moving platforms provide some variety to basic platforming, so they are introduced here.
 
 ### 2.5. Weapon Pickup (Staff), Spitters, & Destructable Columns
