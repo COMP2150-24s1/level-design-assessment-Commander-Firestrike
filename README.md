@@ -2,8 +2,7 @@
 ### Name: Samuel Turnill
 ### Student number: 47582383
 
-<!--![This is the alt text for an image!](DocImages/exampleimage.png)-->
-<!-- word count before my writing: ~600, therefore the word count at the end should be ~2100-->
+<!-- Here goes nothing, let's hope there aren't any spelling mistakes -->
 
 ## 1. Player Experience (~700 words)
 <!-- Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience. -->
