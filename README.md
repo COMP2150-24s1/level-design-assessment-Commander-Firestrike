@@ -60,6 +60,11 @@ Passthrough Platforms and Health Pickups are introduced next, as the passthrough
 
 
 ### 2.3. Acid & Checkpoints
+![Acid & Checkpoints 0](DocImages/Intros/Acid/0.png)
+![Acid & Checkpoints 1](DocImages/Intros/Acid/1.png)
+![Acid & Checkpoints 2](DocImages/Intros/Acid/2.png)
+![Acid & Checkpoints 3](DocImages/Intros/Acid/3.png)
+![Acid & Checkpoints 4](DocImages/Intros/Acid/4.png)
 Acid provides another step up from basic platforming, so it was introduced next. Due to how the acid immediately kills the player, checkpoints were also introducted here so the player would learn how they work and not have to play the earlier stages of the level if they touch the acid.
 
 ### 2.4. Moving Platforms
@@ -72,15 +77,34 @@ Acid provides another step up from basic platforming, so it was introduced next.
 Moving platforms provide some variety to basic platforming, so they are introduced here.
 
 ### 2.5. Weapon Pickup (Staff), Spitters, & Destructable Columns
+![Staff, Spitters, & Destructable Columns 0](DocImages/Intros/Staff/0.png)
+![Staff, Spitters, & Destructable Columns 1](DocImages/Intros/Staff/1.png)
+![Staff, Spitters, & Destructable Columns 2](DocImages/Intros/Staff/2.png)
+![Staff, Spitters, & Destructable Columns 3](DocImages/Intros/Staff/3.png)
+![Staff, Spitters, & Destructable Columns 4](DocImages/Intros/Staff/4.png)
+![Staff, Spitters, & Destructable Columns 5](DocImages/Intros/Staff/5.png)
+![Staff, Spitters, & Destructable Columns 6](DocImages/Intros/Staff/6.png)
 The Staff, Spitters, and Destructable Columns were all introduced in a small encounter in order to teach the player how they all work with a simple demonstration. The Spitter and Column are placed very close to one another so that when the player swipes at the Spitter with the Staff, the Spitter is killed, but the Column is also destroyed.
 
 ### 2.6. Weapon Pickup (Gun) & Chompers
+![Gun & Chompers 0](DocImages/Intros/Gun/0.png)
+![Gun & Chompers 0](DocImages/Intros/Gun/1.png)
+![Gun & Chompers 0](DocImages/Intros/Gun/2.png)
+![Gun & Chompers 0](DocImages/Intros/Gun/3.png)
 The Gun and Chompers are introduced together to show the player the second part of the combat mechanics.
 
 ### 2.7. Single Use Switch & Trigger Door
+![Single Use Switch & Trigger Door 0](DocImages/Intros/Switch/0.png)
+![Single Use Switch & Trigger Door 0](DocImages/Intros/Switch/1.png)
+![Single Use Switch & Trigger Door 0](DocImages/Intros/Switch/2.png)
+![Single Use Switch & Trigger Door 0](DocImages/Intros/Switch/3.png)
 The Switch and Trigger Door are introduced together to demonstrate how they cannot function independently, a switch will always be connected to a door. Different coloured tiles help to visually "connect" the two together so the player always knows where a switch for a door is or vice versa. The Switch is embedded in the ground so the player cannot try to activate it with their body, and must instead shoot it with the gun, opening the door.
 
 ### 2.8. Keys
+![Keys 0](DocImages/Intros/Keys/0.png)
+![Keys 0](DocImages/Intros/Keys/1.png)
+![Keys 0](DocImages/Intros/Keys/2.png)
+![Keys 0](DocImages/Intros/Keys/3.png)
 Keys are the final mechanic introduced, due to being a reward for the player for completing the first section, and a mental separator to separate the first section from the second section. The player must shoot the Switch with the gun and break the Column with the Staff to reinforce understanding of those mechanics.
 
 
@@ -94,6 +118,7 @@ Keys are the final mechanic introduced, due to being a reward for the player for
 No additional words are necessary for this section (any words should only be within your images/diagrams). -->
  
 ### 3.1. Molecule Diagram
+![Molecule Diagram](DocImages/MoleculeDiagram.png)
 
 ### 3.2. Level Map – Section 1
 
@@ -117,7 +142,7 @@ You should conclude by highlighting a specific example of an encounter, or anoth
     6. Create a lot of individual, separated encounters in Unity based on certain mechanics and prefabs for the second and third sections
     7. Connect each encounter together in Unity in a way that follows dramatic pacing, while constantly testing and modifying the encounters to better target the desired player experience
 - Despite not using diagramming tools very much, I still believe I iterated effectively by testing every change to ensure the desired player experience was met
-
+- The final platforming section after getting the third key, and the layout of the two last sections could be improved with more iteration
 
 ## Generative AI Use Acknowledgement
 
